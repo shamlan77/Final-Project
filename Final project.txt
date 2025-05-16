@@ -1,0 +1,67 @@
+Vrinda Store: Annual Sales Performance Analysis - 2022
+
+ 1. Introduction
+This project analyzes the annual sales performance of Vrinda Store for the year 2022 using Microsoft Excel. The goal is to help the store's owner understand customer behavior, optimize marketing strategies, and increase sales in 2023 and 2024.
+2. Objective
+To build an interactive and visual sales dashboard that reveals:
+Monthly sales and order trends
+Customer demographics (age and gender)
+Top-performing states and sales channels
+Order delivery status
+3. Tools Used
+Microsoft Excel (Pivot Tables, Charts, Slicers)
+Data Cleaning Functions
+Visual Design with Custom Formatting
+4. Dataset Source
+The dataset was sourced from Kaggle and contains transactional sales data for the year 2022. It includes fields such as:
+Order Date
+Customer Demographics
+State
+Channel
+Order Status
+Sales Amount
+5. Key Metrics (KPIs) and Insights
+?? Orders vs Sales (Monthly Trend)
+Peak sales in February.
+Sales gradually decline from March to December.
+???????? Sales by Gender
+Women: 64% of purchases
+Men: 36% of purchases
+??? Order Status
+Delivered: 92% of total orders
+Returned: 3%
+Cancelled: 3%
+Refunded: 2%
+?? Top 7 States by Sales
+Maharashtra - ?2.99M
+Karnataka - ?2.65M
+Uttar Pradesh - ?2.10M
+Telangana - ?1.71M
+Tamil Nadu - ?1.68M
+Delhi - ?1.27M
+Kerala - ?1.01M
+?? Orders by Age vs Gender
+Adult women dominate with 56% of total orders
+Adults (30-49 yrs) form the major buyer segment
+?? Sales Channels
+Amazon (35%)
+Myntra (23%)
+Flipkart (22%)
+Others: Meesho, Ajio, Nalli, etc.
+6. Dashboard Design
+An interactive Excel dashboard was created using:
+Pivot Tables for dynamic data modeling
+Charts (bar, pie, line, funnel)
+Slicers for filtering by channel, gender, and age
+7. Final Conclusion
+To improve future sales:
+Focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh
+Strengthen presence on Amazon, Flipkart, and Myntra
+Consider targeted marketing and promotions to maximize ROI
+Maintain delivery efficiency while minimizing returns and cancellations
+
+
+
+Submitted by:
+Mohammed Shamlan
+Data Analyst Intern
